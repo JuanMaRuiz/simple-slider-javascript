@@ -2,9 +2,9 @@
   "name": "simple-slider-javascript",
   "version": "0.1.0",
   "description": "Simple Slider with JS",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/karma/bin/karma start"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/JuanMaRuiz/simple-slider-javascript/issues"
   },
-  "homepage": "https://github.com/JuanMaRuiz/simple-slider-javascript#readme"
+  "homepage": "https://github.com/JuanMaRuiz/simple-slider-javascript#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "istanbul": "^0.4.5",
+    "jasmine-core": "^2.7.0",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  }
 }
