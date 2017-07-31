@@ -1,0 +1,24 @@
+{
+  "name": "simple-slider-javascript",
+  "version": "0.1.0",
+  "description": "Simple Slider with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMaRuiz/simple-slider-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "JS",
+    "slider"
+  ],
+  "author": "JuanMaRuiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMaRuiz/simple-slider-javascript/issues"
+  },
+  "homepage": "https://github.com/JuanMaRuiz/simple-slider-javascript#readme"
+}
