@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/JuanMaRuiz/simple-slider-javascript.svg?branch=master)](https://travis-ci.org/JuanMaRuiz/simple-slider-javascript)
-![Dependencies status](https://david-dm.org/JuanMaRuiz/simple-slider-javascript.svg)
+![DevDependencies status](https://david-dm.org/JuanMaRuiz/simple-slider-javascript.svg#info=devDependencies)
 
 # Simple JavaScript slider
 
