@@ -22,9 +22,12 @@
   },
   "homepage": "https://github.com/JuanMaRuiz/simple-slider-javascript#readme",
   "devDependencies": {
-    "browser-sync": "^2.18.13",
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-cli": "^1.2.0",
     "istanbul": "^0.4.5",
     "jasmine-core": "^2.7.0",
+    "jit-grunt": "^0.10.0",
     "karma": "^1.7.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-growl-reporter": "^1.0.0",
